@@ -1,4 +1,4 @@
 # calendar-app
 
-- Diployment Production:
-- URL: https://app-calendar-server.herokuapp.com/
+- Diployment Production: https://app-calendar-server.herokuapp.com/
+
